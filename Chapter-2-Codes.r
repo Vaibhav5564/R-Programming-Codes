@@ -23,7 +23,7 @@
 
 # marks <- c(56, 75, 48, 65, 12, 20, 11)
 # stem(marks)
-# It prints Data in Stem-Leaf Format
+# It Prints Data in Stem-Leaf Format
 
 
 # mtcars
